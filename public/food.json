@@ -1,0 +1,49 @@
+[{
+    "id": 0,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/4.jpg",
+    "title": "Stir Fry Eggplant",
+    "price": 10
+},
+{
+    "id": 1,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/8.jpg",
+    "title": "Hebal Lala Soup",
+    "price": 16
+},
+{
+    "id": 2,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/3.jpg",
+    "title": "Logan Sweet & Sour Pork",
+    "price": 16
+},
+{
+    "id": 3,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/7.jpg",
+    "title": "Black Pepper Crab",
+    "price": 42
+},
+{
+    "id": 4,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/6.jpg",
+    "title": "Ginseng Herbal Soup",
+    "price": 16
+},
+{
+    "id": 5,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/1.jpg",
+    "title": "Signature Garlic Prawns",
+    "price": 42
+},
+{
+    "id": 6,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/2.jpg",
+    "title": "Signature Tofu",
+    "price":12
+},
+{
+    "id": 7,
+    "image": "https://www.laolizichar.sg/wp-content/themes/laolidapaidang/assets/images/5.jpg",
+    "title": "3 Eggs Spinach",
+    "price":12
+}
+]
