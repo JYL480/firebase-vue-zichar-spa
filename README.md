@@ -1,6 +1,6 @@
 # firebase-vue-zichar-spa
 
-## Portfolio Website:
+## Food Odering Website:
 https://zi-char-project.web.app/#/
 
 
