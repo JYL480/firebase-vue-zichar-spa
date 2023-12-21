@@ -1,7 +1,7 @@
 # firebase-vue-zichar-spa
 
 ## Portfolio Website:
-https://portfolio-25612.web.app/
+https://zi-char-project.web.app/#/
 
 
 ## Project setup
